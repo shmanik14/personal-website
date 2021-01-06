@@ -18,7 +18,7 @@ body{
     width: 90%;
 }
 .highlight-color{
-    color: #524FD5;
+    color: #4a00e0;
 }
 .menu ul {
     list-style: none;
@@ -34,7 +34,7 @@ body{
     padding: 0 15px;
 }
 .about-top .about-text{
-    padding-top: 100px;
+    padding-top: 80px;
 }
 .about-top h1{
     font-size: 50px;
@@ -61,7 +61,7 @@ a.btn {
     border-radius: 100px;
 }
 .about-bottom .about-text {
-    padding-top: 60px;
+    padding: 60px 0 0 60px;
 }
 .about-bottom h2{
     font-size: 40px;
@@ -95,13 +95,14 @@ a.btn {
 }
 .projects h2 span,
 .specializing h2 span{
-    color:#524FD5;
+    color:#4a00e0;
 }
-
-.single-project {
-    width: 28%;
+.one-third-width{
+    width: 33.33%;
     float: left;
-    margin-right: 2.5%;
+}
+.single-project {
+    margin-right: 40px;
     background-color: #fff;
     padding: 15px;
     border-radius: 15px;
@@ -127,7 +128,7 @@ a.btn {
 .work-inquiry h1 {
     font-size: 40px;
     text-transform: uppercase;
-    line-height: 20px;
+    line-height: 40px;
     margin: 0;
 }
 .inquiry-btn{
@@ -144,9 +145,8 @@ a.btn {
     clear: both;
     overflow: hidden;
 }
-.specializing .half-width{
-    width: 39%;
-    float: left;
+.specializing .expert,
+.specializing .speach{
     background-color: #fff;
     padding: 50px;
     border-radius: 15px;
