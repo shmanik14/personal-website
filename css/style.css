@@ -12,10 +12,10 @@ body{
     padding-left: 3%;
 }
 .about-top .half-width img{
-    width: 70%;
+    width: 90%;
 }
 .about-bottom .half-width img{
-    width: 70%;
+    width: 90%;
 }
 .highlight-color{
     color: #524FD5;
@@ -61,7 +61,7 @@ a.btn {
     border-radius: 100px;
 }
 .about-bottom .about-text {
-    padding-top: 100px;
+    padding-top: 60px;
 }
 .about-bottom h2{
     font-size: 40px;
